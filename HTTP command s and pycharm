@@ -1,0 +1,12 @@
+GET: retrieves something, eg a user or website content
+POST: creates something, eg a new student
+PUT: modifies something, eg an update to a recode on a table
+DELETE: delete something, eg. remove the user from the system
+
+
+WHAT is REST
+simply a way to structure those APIs
+key: stateless, one API request does not affect the next
+key: resource-based, API structured on a per-sources basis
+
+CTRL+ALT+L: format html in pcharm
